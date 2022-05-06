@@ -103,7 +103,7 @@
         <div class="card bg-zinc-300 rounded-xl px-4 py-8 overflow-auto">
           <div class="card-header">
             <p class="text-xl font-bold border-b mb-4">
-              United States Views on Agriculture and Natural Ecosystems
+              United States Views on Canada Thistle
             </p>
           </div>
           <div class="card-body">
@@ -143,7 +143,7 @@
         <div class="card bg-zinc-300 rounded-xl px-4 py-8 overflow-auto">
           <div class="card-header">
             <p class="text-xl font-bold border-b mb-4">
-              United States Views on Agriculture and Natural Ecosystems
+              Interactions between our views and how we handle our Wicked Problem
             </p>
           </div>
           <div class="card-body">
