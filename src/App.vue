@@ -217,7 +217,7 @@
           Created by Bryan McGahan for ARGO 107 Final
         </p>
         <a
-          href="/References.pdf#toolbar=0"
+          href="References.pdf"
           class="text-sm text-blue-700 bg-slate-200 px-2 py-2 rounded-xl"
         >
           <span
