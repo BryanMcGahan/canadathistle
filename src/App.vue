@@ -2,7 +2,6 @@
 </script>
 
 <template>
-  <div id="app" class="">
     <div id="main" class="md:h-screen">
       <header class="px-4 py-4 flex justify-center mb-4">
         <div class="flex items-center space-x-1">
@@ -231,7 +230,6 @@
         </a>
       </footer>
     </div>
-  </div>
 </template>
 
 <style>
